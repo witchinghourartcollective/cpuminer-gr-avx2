@@ -4,6 +4,9 @@ cpuminer
 *.o
 *.d
 gmon.out
+configure~
+tune_config
+cpuminer-gr-avx2/
 
 bin/unix/
 bin/win/
